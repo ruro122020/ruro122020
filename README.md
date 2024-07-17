@@ -1,4 +1,3 @@
-##BIO
 In 2023, I made a significant commitment to my newfound love for coding. I enrolled
 in a bootcamp, determined to master the ins and outs of what it takes to be a full-stack software engineer.
 The experience was nothing short of exhilarating. I cherished every part of it, from the moments of frustration
@@ -14,10 +13,12 @@ If you are part of a fantastic team of developers seeking a software developer w
 eager to learn and ask questions, doesn't shy away from a challenge, and loves developing software,
 let's [connect]([https://www.example.com](https://www.linkedin.com/in/ruth-rojas-software-engineer/))!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruro122020&show_icons=true&theme=radical)
 
 
 <!--
+THIS LINE SHOW YOU STATISTICS OF YOUR GITHUB
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruro122020&show_icons=true&theme=radical)
+
 **ruro122020/ruro122020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
