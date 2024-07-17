@@ -1,4 +1,4 @@
-In 2023, I made a significant commitment to my newfound love for coding. I enrolled
+In 2023, I made a significant commitment to my love for coding. I enrolled
 in a bootcamp, determined to master the ins and outs of what it takes to be a full-stack software engineer.
 The experience was nothing short of exhilarating. I cherished every part of it, from the moments of frustration
 to the thrilling challenges of the projects I built along the way. It was a journey of self-discovery, constantly
