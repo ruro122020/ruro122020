@@ -12,6 +12,8 @@ let's [connect]([https://www.example.com](https://www.linkedin.com/in/ruth-rojas
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruro122020)](https://github.com/ruro122020/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruro122020)](https://github.com/ruro122020/github-readme-stats)
+
 <!--
 THIS LINE SHOW YOU STATISTICS OF YOUR GITHUB
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruro122020&show_icons=true&theme=radical)
