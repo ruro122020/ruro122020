@@ -10,10 +10,11 @@ If you are part of a fantastic team of developers seeking a software developer w
 eager to learn and ask questions, doesn't shy away from a challenge, and loves developing software,
 let's [connect]([https://www.example.com](https://www.linkedin.com/in/ruth-rojas-software-engineer/))!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruro122020)](https://github.com/ruro122020/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruro122020)](https://github.com/ruro122020/github-readme-stats)
 
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruro122020)](https://github.com/ruro122020/github-readme-stats)
 THIS LINE SHOW YOU STATISTICS OF YOUR GITHUB
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruro122020&show_icons=true&theme=radical)
 
