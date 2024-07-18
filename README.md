@@ -11,6 +11,54 @@ If you are part of a fantastic team of developers seeking a software developer w
 eager to learn and ask questions, doesn't shy away from a challenge, and loves developing software,
 let's [connect](https://www.linkedin.com/in/ruth-rojas-software-engineer/)!
 
+<h2>🖥️Technologies I Have Used and Learned</h2>
+<p align=left>
+
+  <!-- Javascript icon -->
+  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+  <!-- HTML -->
+  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+          
+  <!--CSS -->
+  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
+        
+  <!-- react icon--> 
+  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+
+  <!--Tailwind CSS -->
+  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+          
+  <!--Material UI -->
+  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
+
+  <!-- Redux -->
+  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
+          
+          
+  <!-- Python icon-->
+  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+
+  <!--Flask -->
+<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"/>
+  
+  <!-- SQLAlchemy -->
+  <img width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
+
+  <!-- SQL-->
+<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+          
+          
+  <!-- PostgreSQL-->
+  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+          
+  <!-- SQLite-->
+  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
+          
+  <!--Git -->
+  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+</p>                  
+          
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruro122020)](https://github.com/ruro122020/github-readme-stats)
 
