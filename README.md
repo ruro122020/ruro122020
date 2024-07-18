@@ -3,10 +3,8 @@
   
 ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXQ4Y3hsc29mMHc1b2hldmYzc2Y4a3UzcG9qeXUwZ2w1ZHJnd3djcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
   
-![Ruth Rojas Software Engineer](https://capsule-render.vercel.app/api?type=venom&color=0824fc&height=100&section=header&text=Welcome!&fontSize=50&animation=fadeIn&fontColor=21d8ea)
+![Ruth Rojas Software Engineer](https://capsule-render.vercel.app/api?type=venom&color=0824fc&height=100&section=header&text=Welcome!&fontSize=50&animation=scaleIn&fontColor=21d8ea)
 
-  <h2> Connect </h2>
-  
   <a href="https://www.linkedin.com/in/ruth-rojas-software-engineer/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 </div>
@@ -70,14 +68,10 @@ eager to learn and ask questions, doesn't shy away from a challenge, and loves d
   <!--Git -->
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
 </p>                  
-          
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruro122020)](https://github.com/ruro122020/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruro122020)](https://github.com/ruro122020/github-readme-stats)
-THIS LINE SHOW YOU STATISTICS OF YOUR GITHUB
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruro122020&show_icons=true&theme=radical)
-
 **ruro122020/ruro122020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
