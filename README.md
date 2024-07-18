@@ -5,7 +5,11 @@
   
 ![Ruth Rojas Software Engineer](https://capsule-render.vercel.app/api?type=venom&color=0824fc&height=100&section=header&text=Welcome!&fontSize=50&animation=scaleIn&fontColor=21d8ea)
 
-  <a href="https://www.linkedin.com/in/ruth-rojas-software-engineer/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<p >
+  
+  <a href="https://www.linkedin.com/in/ruth-rojas-software-engineer/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://ruthr.hashnode.dev/"> ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
+  
+</p>
 
 </div>
 
@@ -21,8 +25,13 @@ challenges. I value a healthy work-life balance and am ready to contribute to a 
 If you are part of a fantastic team of developers seeking a software developer who has, and continues, to honed their technical skills, is
 eager to learn and ask questions, doesn't shy away from a challenge, and loves developing software, let's [connect](https://www.linkedin.com/in/ruth-rojas-software-engineer/)!
 
-<h2>🖥️Technologies I Have Used and Learned</h2>
-<p align=left>
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"
+</p>
+
+
+<h2 align=center>🖥️Technologies I Have Used and Learned</h2>
+<p align=center>
 
   <!-- Javascript icon -->
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -69,7 +78,12 @@ eager to learn and ask questions, doesn't shy away from a challenge, and loves d
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
 </p>                  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<p align=center>
+
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRqMThrMWZ3dXRubWM0MHp6bjg3ZTd0MnllZ2NzbnU4d2M2ejM0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Siof5O0UeQM9Pvfbf/giphy.gif"/>
+  
+</p>
+
 
 <!--
 **ruro122020/ruro122020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
