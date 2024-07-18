@@ -1,3 +1,4 @@
+![Ruth Rojas Software Engineer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 In 2023, I made a significant commitment and enrolled in a bootcamp, determined to master the ins and outs of what it takes to be a full-stack software engineer.
 The experience was nothing short of exhilarating. I cherished every part of it, from the moments of frustration to the thrilling challenges of the projects I built along the way. It was a journey of self-discovery, constantly pushing my limits and expanding my boundaries.
 
@@ -10,7 +11,6 @@ If you are part of a fantastic team of developers seeking a software developer w
 eager to learn and ask questions, doesn't shy away from a challenge, and loves developing software,
 let's [connect](https://www.linkedin.com/in/ruth-rojas-software-engineer/)!
 
-![Ruth Rojas Software Engineer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruro122020)](https://github.com/ruro122020/github-readme-stats)
 
