@@ -1,4 +1,4 @@
-![Ruth Rojas Software Engineer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Ruth%20Rojas%20Software%20Engineer&fontSize=90)
+![Ruth Rojas Software Engineer](https://capsule-render.vercel.app/api?type=venom&color=21d8ea&height=200&section=header&text=Software%20Engineer&fontSize=50&animation=fadeIn&fontColor=0047ff)
 In 2023, I made a significant commitment and enrolled in a bootcamp, determined to master the ins and outs of what it takes to be a full-stack software engineer.
 The experience was nothing short of exhilarating. I cherished every part of it, from the moments of frustration to the thrilling challenges of the projects I built along the way. It was a journey of self-discovery, constantly pushing my limits and expanding my boundaries.
 
