@@ -26,7 +26,8 @@ If you are part of a fantastic team of developers seeking a software developer w
 eager to learn and ask questions, doesn't shy away from a challenge, and loves developing software, let's [connect](https://www.linkedin.com/in/ruth-rojas-software-engineer/)!
 
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"
+  <img width=400 height=200 src="https://github-readme-stats.vercel.app/api?username=ruro122020&show_icons=true&theme=radical"/>
+<img width=600 height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruro122020&layout=compact"/>
 </p>
 
 
