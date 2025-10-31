@@ -13,15 +13,7 @@
 
 </div>
 
-
-In 2023, I made a significant commitment and enrolled in a bootcamp, determined to master the ins and outs of what it takes to be a full-stack software engineer.
-The experience was nothing short of exhilarating. I cherished every part of it, from the moments of frustration to the thrilling challenges of the projects I built along the way. It was a journey of self-discovery, constantly pushing my limits and expanding my boundaries.
-
-Emerging from the bootcamp, I feel confident and eager to collaborate with other developers.
-I have a burning desire to join a team that shares my passion for building software solutions that can make a
-difference in the world, in society, and in our community for everyday people like you and me.
-I'm now on the lookout for a team of developers where I can continue to grow my skills and embrace new
-challenges. I value a healthy work-life balance and am ready to contribute to a great team.
+Software engineer with experience with web applications, web servers, network protocols, operating systems, databases, drivers, and  PC hardware, gained knowledge through practical experiences across diverse technology environments.
 If you are part of a fantastic team of developers seeking a software developer who has, and continues, to honed their technical skills, is
 eager to learn and ask questions, doesn't shy away from a challenge, and loves developing software, let's [connect](https://www.linkedin.com/in/ruth-rojas-software-engineer/)!
 
