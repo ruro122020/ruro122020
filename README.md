@@ -14,7 +14,7 @@
 </div>
 
 Software engineer with experience with web applications, web servers, network protocols, operating systems, databases, drivers, and  PC hardware, gained knowledge through practical experiences across diverse technology environments.
-I’d like to connect and expand my professional network! LinkedIn [connect](https://www.linkedin.com/in/ruth-rojas-software-engineer/)!
+I’d like to connect and expand my professional network! [LinkedIn](https://www.linkedin.com/in/ruth-rojas-software-engineer/)!
 
 <p align=center>
   <img width=400 height=200 src="https://github-readme-stats.vercel.app/api?username=ruro122020&show_icons=true&theme=radical"/>
