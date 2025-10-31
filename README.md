@@ -14,8 +14,7 @@
 </div>
 
 Software engineer with experience with web applications, web servers, network protocols, operating systems, databases, drivers, and  PC hardware, gained knowledge through practical experiences across diverse technology environments.
-If you are part of a fantastic team of developers seeking a software developer who has, and continues, to honed their technical skills, is
-eager to learn and ask questions, doesn't shy away from a challenge, and loves developing software, let's [connect](https://www.linkedin.com/in/ruth-rojas-software-engineer/)!
+I’d like to connect and expand my professional network! LinkedIn [connect](https://www.linkedin.com/in/ruth-rojas-software-engineer/)!
 
 <p align=center>
   <img width=400 height=200 src="https://github-readme-stats.vercel.app/api?username=ruro122020&show_icons=true&theme=radical"/>
