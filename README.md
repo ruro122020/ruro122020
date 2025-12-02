@@ -16,10 +16,10 @@
 Software engineer with experience with web applications, web servers, network protocols, operating systems, databases, drivers, and  PC hardware, gained knowledge through practical experiences across diverse technology environments.
 I’d like to connect and expand my professional network.
 
-<p align=center>
+<!-- <p align=center>
   <img width=400 height=200 src="https://github-readme-stats.vercel.app/api?username=ruro122020&show_icons=true&theme=radical"/>
 <img width=600 height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruro122020&layout=compact"/>
-</p>
+</p> -->
 
 
 <h2 align=center>🖥️Technologies I Have Used and Learned</h2>
@@ -41,7 +41,7 @@ I’d like to connect and expand my professional network.
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
           
   <!--Material UI -->
-  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
+  <!-- <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" /> -->
 
   <!-- Redux -->
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
@@ -64,7 +64,7 @@ I’d like to connect and expand my professional network.
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
           
   <!-- SQLite-->
-  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
+  <!-- <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" /> -->
           
   <!--Git -->
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
