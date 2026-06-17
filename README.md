@@ -16,37 +16,14 @@
 Software engineer with experience with web applications, web servers, network protocols, operating systems, databases, drivers, and  PC hardware, gained knowledge through practical experiences across diverse technology environments.
 I’d like to connect and expand my professional network.
 
-<!-- <p align=center>
+<p align=center>
   <img width=400 height=200 src="https://github-readme-stats.vercel.app/api?username=ruro122020&show_icons=true&theme=radical"/>
 <img width=600 height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruro122020&layout=compact"/>
-</p> -->
+</p>
 
 
 <h2 align=center>🖥️Technologies I Have Used and Learned</h2>
-<p align=center>
-
-  <!-- Javascript icon -->
-  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-  <!-- HTML -->
-  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
-          
-  <!--CSS -->
-  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
-        
-  <!-- react icon--> 
-  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-
-  <!--Tailwind CSS -->
-  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-          
-  <!--Material UI -->
-  <!-- <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" /> -->
-
-  <!-- Redux -->
-  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
-          
-          
+<p align=center>         
   <!-- Python icon-->
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
 
