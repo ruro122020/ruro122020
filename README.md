@@ -1,9 +1,10 @@
 
 <div align=center>
-  
-![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXQ4Y3hsc29mMHc1b2hldmYzc2Y4a3UzcG9qeXUwZ2w1ZHJnd3djcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
+
+<!-- ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXQ4Y3hsc29mMHc1b2hldmYzc2Y4a3UzcG9qeXUwZ2w1ZHJnd3djcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
   
 ![Ruth Rojas Software Engineer](https://capsule-render.vercel.app/api?type=venom&color=0824fc&height=100&section=header&text=Welcome!&fontSize=50&animation=scaleIn&fontColor=21d8ea)
+-->
 
 <p >
   
