@@ -19,7 +19,7 @@ I'm a software engineer with experience building distributed systems and backend
 I'm not tied to one corner of engineering. I enjoy picking up unfamiliar problems and learning what I need to solve them, whether that's networking, security, or low-level systems work. Right now I'm teaching myself real-time operating systems and embedded development by building an RTOS scheduler from scratch in C.
 
 <p>
-  Stack: Go, Python, Bash, PostgreSQL
+  Stack: Golang, Python, Bash, PostgreSQL
 </p>
 
 
@@ -31,7 +31,9 @@ I'm not tied to one corner of engineering. I enjoy picking up unfamiliar problem
 
 
 <!-- <h2 align=center>🖥️Technologies I Have Used and Learned</h2> -->
-<p align=center>         
+<p align=center>   
+  <!-- Golang -->
+  <img src="https://jsdelivr.net" alt="Golang Icon" width="48" height="48">
   <!-- Python icon-->
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
 
