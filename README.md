@@ -23,7 +23,7 @@ I’d like to connect and expand my professional network.
 </p>
 
 
-<h2 align=center>🖥️Technologies I Have Used and Learned</h2>
+<!-- <h2 align=center>🖥️Technologies I Have Used and Learned</h2> -->
 <p align=center>         
   <!-- Python icon-->
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
