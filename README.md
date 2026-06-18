@@ -16,14 +16,12 @@
 
 Hi, I'm Ruth 👋
 I'm a software engineer with experience building distributed systems and backend infrastructure that runs software reliably on remote hardware. I like working close to the systems level and figuring out the unglamorous things that make software trustworthy: fault tolerance, clean error handling, and security built in from the start.
-I'm not tied to one corner of engineering. I enjoy picking up unfamiliar problems and learning what I need to solve them, whether that's networking, security, or low-level systems work. Right now I'm teaching myself real-time operating systems and embedded development by building an RTOS scheduler from scratch.
+I'm not tied to one corner of engineering. I enjoy picking up unfamiliar problems and learning what I need to solve them, whether that's networking, security, or low-level systems work. Right now I'm teaching myself real-time operating systems and embedded development by building an RTOS scheduler from scratch in C.
 
 <p>
   Stack: Go, Python, Bash, PostgreSQL
 </p>
-<p>
-   Learning: RTOS, embedded systems, bare-metal C
-</p>
+
 
 
 <!-- <p align=center>
