@@ -13,7 +13,10 @@
 
 </div> -->
 <div align=center>
- <a href="https://www.linkedin.com/in/ruth-tech-dev/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>  <a href="https://ruthr.hashnode.dev/"> ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
+  <p>
+   <a href="https://www.linkedin.com/in/ruth-tech-dev/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+    <a href="https://ruthr.hashnode.dev/"> ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
+  </p>
 </div>
 Software engineer with experience with web applications, web servers, network protocols, operating systems, databases, drivers, and  PC hardware, gained knowledge through practical experiences across diverse technology environments.
 I’d like to connect and expand my professional network.
