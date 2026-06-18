@@ -17,10 +17,10 @@
 Software engineer with experience with web applications, web servers, network protocols, operating systems, databases, drivers, and  PC hardware, gained knowledge through practical experiences across diverse technology environments.
 I’d like to connect and expand my professional network.
 
-<p align=center>
+<!-- <p align=center>
   <img width=400 height=200 src="https://github-readme-stats.vercel.app/api?username=ruro122020&show_icons=true&theme=radical"/>
-  <!-- <img width=600 height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruro122020&layout=compact"/> -->
-</p>
+  <img width=600 height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruro122020&layout=compact"/>
+</p> -->
 
 
 <!-- <h2 align=center>🖥️Technologies I Have Used and Learned</h2> -->
