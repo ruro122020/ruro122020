@@ -20,7 +20,9 @@ I'm not tied to one corner of engineering. I enjoy picking up unfamiliar problem
 
 <p>
   Stack: Go, Python, Bash, PostgreSQL
-  Learning: RTOS, embedded systems, bare-metal C
+</p>
+<p>
+   Learning: RTOS, embedded systems, bare-metal C
 </p>
 
 
