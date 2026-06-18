@@ -33,7 +33,7 @@ I'm not tied to one corner of engineering. I enjoy picking up unfamiliar problem
 <!-- <h2 align=center>🖥️Technologies I Have Used and Learned</h2> -->
 <p align=center>   
   <!-- Golang -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/go/go-original-wordmark.svg"
+  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/go/go-original-wordmark.svg"
   alt="Go logo" />  <!-- Python icon-->
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
 
