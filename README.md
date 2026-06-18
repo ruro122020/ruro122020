@@ -14,8 +14,11 @@
 
 </div>
 
-Software engineer with experience with web applications, web servers, network protocols, operating systems, databases, drivers, and  PC hardware, gained knowledge through practical experiences across diverse technology environments.
-I’d like to connect and expand my professional network.
+Hi, I'm Ruth 👋
+I'm a software engineer with experience building distributed systems and backend infrastructure that runs software reliably on remote hardware. I like working close to the systems level and figuring out the unglamorous things that make software trustworthy: fault tolerance, clean error handling, and security built in from the start.
+I'm not tied to one corner of engineering. I enjoy picking up unfamiliar problems and learning what I need to solve them, whether that's networking, security, or low-level systems work. Right now I'm teaching myself real-time operating systems and embedded development by building an RTOS scheduler from scratch.
+Stack: Go, Python, Bash, PostgreSQL
+Learning: RTOS, embedded systems, bare-metal C
 
 <!-- <p align=center>
   <img width=400 height=200 src="https://github-readme-stats.vercel.app/api?username=ruro122020&show_icons=true&theme=radical"/>
