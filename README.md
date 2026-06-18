@@ -1,5 +1,5 @@
 
-<!-- <div align=center>
+<div align=center>
   
 ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXQ4Y3hsc29mMHc1b2hldmYzc2Y4a3UzcG9qeXUwZ2w1ZHJnd3djcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
   
@@ -11,13 +11,8 @@
   
 </p>
 
-</div> -->
-<div align=center>
-  <p>
-   <a href="https://www.linkedin.com/in/ruth-tech-dev/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
-    <a href="https://ruthr.hashnode.dev/"> ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
-  </p>
 </div>
+
 Software engineer with experience with web applications, web servers, network protocols, operating systems, databases, drivers, and  PC hardware, gained knowledge through practical experiences across diverse technology environments.
 I’d like to connect and expand my professional network.
 
