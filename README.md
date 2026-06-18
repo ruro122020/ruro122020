@@ -18,11 +18,6 @@ Hi, I'm Ruth 👋
 I'm a software engineer with experience building distributed systems and backend infrastructure that runs software reliably on remote hardware. I like working close to the systems level and figuring out the unglamorous things that make software trustworthy: fault tolerance, clean error handling, and security built in from the start.
 I'm not tied to one corner of engineering. I enjoy picking up unfamiliar problems and learning what I need to solve them, whether that's networking, security, or low-level systems work. Right now I'm teaching myself real-time operating systems and embedded development by building an RTOS scheduler from scratch in C.
 
-<p>
-  Stack: Golang, Python, Bash, PostgreSQL
-</p>
-
-
 
 <!-- <p align=center>
   <img width=400 height=200 src="https://github-readme-stats.vercel.app/api?username=ruro122020&show_icons=true&theme=radical"/>
@@ -30,7 +25,7 @@ I'm not tied to one corner of engineering. I enjoy picking up unfamiliar problem
 </p> -->
 
 
-<!-- <h2 align=center>🖥️Technologies I Have Used and Learned</h2> -->
+<h2 align=center>🖥️ Stack</h2>
 <p align=center>   
   <!-- Golang -->
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/go/go-original-wordmark.svg"
