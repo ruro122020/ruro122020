@@ -15,7 +15,7 @@
 </div>
 
 Hi, I'm Ruth 👋
-I'm a software engineer with experience building distributed systems and backend infrastructure that runs software reliably on remote hardware. I like working close to the systems level and figuring out the unglamorous things that make software trustworthy: fault tolerance, clean error handling, and security built in from the start.
+I'm a systems engineer with experience building distributed systems and backend infrastructure that runs software reliably on remote hardware. I like working close to the systems level and figuring out the unglamorous things that make software trustworthy: fault tolerance, clean error handling, and security built in from the start.
 I'm not tied to one corner of engineering. I enjoy picking up unfamiliar problems and learning what I need to solve them, whether that's networking, security, or low-level systems work. Right now I'm teaching myself embedded development by building a real-time operating systems (RTOS) from scratch using C.
 
 
