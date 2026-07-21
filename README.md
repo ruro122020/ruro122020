@@ -16,7 +16,7 @@
 
 Hi, I'm Ruth 👋
 I work at AtlasIED building a distribution system and backend infrastructure that runs software reliably on remote hardware. I like working close to the systems level and figuring out the unglamorous things that make software trustworthy: fault tolerance, clean error handling, and security built in from the start.
-I'm not tied to one corner of engineering. I enjoy picking up unfamiliar problems and learning what I need to solve them, whether that's networking, security, or low-level systems work. I like to document what I've learned on my <a href="https://ruro122020.github.io/portfolio/"> website </a> 
+I'm not tied to one corner of engineering. I enjoy picking up unfamiliar problems and learning what I need to solve them, whether that's networking, security, or low-level systems work. I like to document what I've learned on my <a href="https://ruro122020.github.io/portfolio/" style="text-decoration: none;"> website </a> 
 
 
 <!-- <p align=center>
