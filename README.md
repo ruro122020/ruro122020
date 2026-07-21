@@ -7,16 +7,14 @@
 -->
 
 <p >
-  
-<a href="https://www.linkedin.com/in/ruth-tech-dev/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://ruro122020.github.io/portfolio/">Blog</a>
-  
+<a href="https://www.linkedin.com/in/ruth-tech-dev/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 </p>
 
 </div>
 
 Hi, I'm Ruth 👋
 I work at AtlasIED building a distribution system and backend infrastructure that runs software reliably on remote hardware. I like working close to the systems level and figuring out the unglamorous things that make software trustworthy: fault tolerance, clean error handling, and security built in from the start.
-I'm not tied to one corner of engineering. I enjoy picking up unfamiliar problems and learning what I need to solve them, whether that's networking, security, or low-level systems work. Right now I'm teaching myself embedded development by building a real-time operating systems (RTOS) from scratch using C.
+I'm not tied to one corner of engineering. I enjoy picking up unfamiliar problems and learning what I need to solve them, whether that's networking, security, or low-level systems work. I like to document what I've learned on my <a href="https://ruro122020.github.io/portfolio/"> website </a> 
 
 
 <!-- <p align=center>
