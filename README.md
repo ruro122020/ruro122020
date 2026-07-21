@@ -44,7 +44,7 @@ I'm not tied to one corner of engineering. I enjoy picking up unfamiliar problem
           
           
   <!-- PostgreSQL-->
-  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <!-- <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" /> -->
           
   <!-- SQLite-->
   <!-- <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" /> -->
